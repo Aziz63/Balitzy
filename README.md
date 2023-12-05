@@ -9,4 +9,8 @@ OUUUMAAAA
 requires jMonkeyEngine3
 
 
+<<<<<<< HEAD
 this is mini cloud
+=======
+trhb4bt
+>>>>>>> origin/miniBranch
